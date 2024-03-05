@@ -1,0 +1,4 @@
+Nom: Koné
+Prénom: Mohamed
+Age: 20 ans
+Profession: Etudiant
